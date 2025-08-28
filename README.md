@@ -1,8 +1,8 @@
 # numerical-simulation-monodisperse-collapse-fem
 
-# Granular Collapse Simulation (PreGrad Thesis Code)
+# Granular Collapse Simulation (undergraduated thesis code)
 
-This repository contains the Python code developed for my Civil Engineering thesis:  
+This repository contains the Python code developed for my Civil Engineering undergrad thesis:  
 **"NUMERICAL SIMULATION OF A MONO-DISPERSE COLLAPSE USING THE FINITE ELEMENT METHOD"**.
 
 ## Requirements
